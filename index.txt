@@ -1,29 +1,9 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Itinerario: Miercoles
+Itinerario: Lunes
 
 1- Leveanto
 2- Baño
 3- Desayuno
-4- Voy a Estudiar
+4- Voy a trabajar
 5- Almuerzo
-6- Voy a Trabajar
-7- Regreso a casa
+6-Sigo trabajando
+7-Regreso a casa
