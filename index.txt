@@ -1,9 +1,9 @@
-Itinerario: Lunes
+Itinerario: Martes
 
 1- Leveanto
 2- Baño
 3- Desayuno
-4- Voy a trabajar
+4- Voy a estudiar
 5- Almuerzo
-6-Sigo trabajando
+6-Sigo estudiando
 7-Regreso a casa
