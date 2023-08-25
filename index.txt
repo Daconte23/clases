@@ -16,4 +16,4 @@ Itinerario: Martes
 4- Voy a estudiar
 5- Almuerzo
 6-Sigo estudiando
-7-Regreso a casa
+7-Regreso a casa otra ves
