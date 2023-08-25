@@ -26,4 +26,4 @@ Itinerario: Miercoles
 4- Voy a Estudiar
 5- Almuerzo
 6- Voy a Trabajar
-7- Regreso a casa
+7- Regreso a casa de nuevo
