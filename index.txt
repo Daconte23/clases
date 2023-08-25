@@ -27,3 +27,5 @@ Itinerario: Miercoles
 5- Almuerzo
 6- Voy a Trabajar
 7- Regreso a casa 
+
+Voy a dormir
